@@ -1,0 +1,14 @@
+Early grading, but.
+
+1c contains no scalings. -2.5
+
+```
+I calculated how wide each column would be, and how many pixels corresponded a histogram value of one (one of the asterisks from above)
+```
+1c contains no such calculations, and altering the size of the histogram or window do not change the rendered graphic.
+
+2 unattempted. -2.5
+
+5/10
+
+Will recheck @ midnight.
