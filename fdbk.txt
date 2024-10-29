@@ -1,7 +1,5 @@
-Early grading, but.
+is_magic_square doesn't seem to work on any magic squares except the specific example provided in the code, but doesn't work on e.g. Melencolia I.
 
-2 unattempted. -2.5
+-2.5
 
 7.5/10
-
-Will recheck @ midnight.
